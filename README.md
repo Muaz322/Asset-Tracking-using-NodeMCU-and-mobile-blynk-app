@@ -17,9 +17,13 @@ Components Required:
 
 Wiring Schematics:
 Node MCU    GPS MODULE
-•	3V3					VCC
+
+•	3V3					    VCC
+
 •	GND         GND
-•	TX					TX
-•	RX					RX
+
+•	TX					     TX
+
+•	RX					     RX
 
 Open PDF for further details
