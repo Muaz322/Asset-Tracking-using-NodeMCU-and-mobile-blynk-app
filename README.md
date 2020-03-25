@@ -1,14 +1,21 @@
 # Asset-Tracking-using-NodeMCU-and-mobile-blynk-app
 
 Asset tracking using node mcu using mobile
+
 Description: 
+
 •	In this project we will be using Node MCU esp8266 to track our location
 
 Software:
+
 •	Arduino IDE
+
 •	Blynk android app
+
 Components Required:
+
 •	Node mcu esp8266
+
 •	GPS module
  
 
@@ -16,14 +23,14 @@ Components Required:
 
 
 Wiring Schematics:
-Node MCU    GPS MODULE
+Node MCU ----   GPS MODULE
 
-•	3V3					    VCC
+•	3V3					   ---- VCC
 
-•	GND         GND
+•	GND     ----    GND
 
-•	TX					     TX
+•	TX					    ---- TX
 
-•	RX					     RX
+•	RX					  ----   RX
 
 Open PDF for further details
